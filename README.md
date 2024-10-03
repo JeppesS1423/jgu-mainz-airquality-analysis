@@ -26,7 +26,7 @@ project-root/
 ```
 
 ## Contributing
-This project is part of an internship and research initiative. For questions about the research or findings, please contact [Your Name or Your Supervisor's Name] at [contact email].
+This project is part of an internship and research initiative. For questions about the research or findings, please contact me at jesperh0914@gmail.com.
 
 ## Acknowledgments
 - Johannes Gutenberg University, Mainz
