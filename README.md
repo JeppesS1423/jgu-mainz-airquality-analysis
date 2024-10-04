@@ -22,7 +22,8 @@ project-root/
 │
 ├── data/                  # Raw and processed data files
 ├── notebooks/             # Jupyter notebooks for analysis
-└── docs/                  # Documentation files
+├── docs/                  # Documentation files
+└── src/                   # Python source files and scripts
 ```
 
 ## Contributing
