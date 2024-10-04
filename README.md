@@ -26,7 +26,7 @@ project-root/
 ```
 
 ## Contributing
-This project is part of an internship and research initiative. For questions about the research or findings, please contact me at jesperh0914@gmail.com.
+This project is part of an internship and research initiative. For questions about the research or findings, please reach out to me.
 
 ## Acknowledgments
 - Johannes Gutenberg University, Mainz
@@ -34,5 +34,5 @@ This project is part of an internship and research initiative. For questions abo
 - sensor.community and its contributors
 
 ## Contact
-[Jesper H] - [jesperh0914@proton.me]
-Project Link: [URL to your repository](https://github.com/JeppesS1423/jgu-mainz-airquality-analysis)
+Jesper H - jesperh0914@proton.me
+Project Link: https://github.com/JeppesS1423/jgu-mainz-airquality-analysis
