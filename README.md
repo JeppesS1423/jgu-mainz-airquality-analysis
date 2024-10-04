@@ -35,4 +35,5 @@ This project is part of an internship and research initiative. For questions abo
 
 ## Contact
 Jesper H - jesperh0914@proton.me
+
 Project Link: https://github.com/JeppesS1423/jgu-mainz-airquality-analysis
